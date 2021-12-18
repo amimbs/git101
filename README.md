@@ -11,7 +11,8 @@ git push
 
 If you want to pull this github repo changes do
 ```bash
-git pul
+git pull
+testets
 ```
 
 
