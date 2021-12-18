@@ -1,0 +1,8 @@
+Hello git
+ # we wrote and createdthis file with the following command in terminal:
+    # echo "Hello git" > hello.txt
+
+# In VS code, once a repository has been initialized with GIT: 
+   # Green - new file/folder
+   # U Next to the tab name means the file is untracked
+   # Make use of the Source Control tab
